@@ -51,8 +51,8 @@ I aim to apply these technologies to real-world data analysis projects, improvin
 - **Key Contributions:**
   - Scraped online product reviews using XPath and Scrapy.
   - Processed and cleaned data with Pandas (deduplication, missing value handling, normalization).
-  - Applied Jieba for text segmentation and SBERT + C-TF-IDF for topic modeling.
-  - Conducted sentiment analysis using SentiLARE and visualized findings with symbol pie charts.
+  - Applied Jieba for text segmentation and SBERT for topic modeling.
+  - Conducted sentiment analysis using SentiLARE and visualized findings with designed chart.
   - Implemented Apriori for association rule mining and K-means for user segmentation.
   - Used factor analysis and structural equation modeling to extract key user demand factors.
 
